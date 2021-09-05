@@ -1,0 +1,32 @@
+{
+  "name": "festivalmusica_inicio",
+  "version": "1.0.0",
+  "description": "Aprendiendo Gulp y SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javimenba/Festival_de_rock.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp.",
+    "Web",
+    "Designed"
+  ],
+  "author": "Javier Mendoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javimenba/Festival_de_rock/issues"
+  },
+  "homepage": "https://github.com/javimenba/Festival_de_rock#readme",
+  "devDependencies": {
+    "dart-sass": "^1.25.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "node-sass": "^6.0.1",
+    "sass": "^1.39.0"
+  }
+}
